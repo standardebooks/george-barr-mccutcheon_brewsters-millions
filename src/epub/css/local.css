@@ -32,10 +32,6 @@ tfoot > tr:first-child > td + td{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -47,7 +43,7 @@ tfoot > tr:first-child > td + td{
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:letter"] header > [epub|type~="se:letter.dateline"]{
@@ -60,7 +56,6 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
@@ -78,7 +73,8 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:postscript"] + p{
+[epub|type~="z3998:postscript"] [epub|type~="z3998:sender"]{
+	display: block;
 	text-align: right;
 }
 
