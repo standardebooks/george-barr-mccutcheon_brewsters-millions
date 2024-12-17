@@ -13,6 +13,7 @@ caption{
 td + td{
 	padding-left: 1em;
 	text-align: right;
+	vertical-align: bottom;
 }
 
 tbody > tr:last-child > td{
