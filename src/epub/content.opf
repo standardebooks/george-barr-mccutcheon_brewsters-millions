@@ -45,14 +45,14 @@
 		<meta property="term" refines="#subject-5">sh2008107169</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man stands to gain a fortune but only if he loses one first.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Montgomery Brewster, orphaned at a young age, was taken under the wing of his elderly and extremely rich grandfather. So it is not a total surprise to Monty that after receiving the news of his grandfather’s death on his twenty-fifth birthday he finds himself richer to the tune of a million dollars. What is surprising, however, was a letter from attorneys Grant &amp;amp; Ripley with notification of a second and dramatically larger legacy, this time from an uncle he had completely forgotten about. Even more surprising is the condition attached: he’ll only receive this fortune if he can be absolutely penniless within the year.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Brewster’s Millions&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/george-barr-mccutcheon"&gt;George Barr McCutcheon’s&lt;/a&gt; second novel, but it is perhaps better known these days as the story behind many perennial film, play and musical adaptions. The story of a rich young man vying for even greater riches is maybe more aligned with the Gilded Age than those that followed, but the situations Monty’s quest takes him to retain their inherent comedy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4709</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100498355</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Brewster%27s_Millions</meta>
