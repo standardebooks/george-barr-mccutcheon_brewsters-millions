@@ -6,10 +6,4 @@
 			<reason>Correct capitalisation for name.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-33.xhtml">
-		<ignore>
-			<code>y-003</code>
-			<reason>Correct as per the scans, and no obvious fix.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
