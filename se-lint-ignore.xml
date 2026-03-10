@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-14.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>Correct capitalisation for name.</reason>
 		</ignore>
 	</file>
